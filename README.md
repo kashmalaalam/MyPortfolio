@@ -5,7 +5,7 @@ Welcome to my personal portfolio website, showcasing my background, projects, ce
 ## 🌐 Live Demo
 
 You can view the live portfolio here:  
-➡️ [[https://yourusername.github.io/your-repo-name](https://github.com/kashmalaalam/MyPortfolio.git)](https://yourusername.github.io/your-repo-name)  
+➡️ [(https://github.com/kashmalaalam/MyPortfolio.git)]  
 _(Replace this link with your actual GitHub Pages URL)_
 
 ---
